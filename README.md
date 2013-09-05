@@ -1,6 +1,6 @@
 # ForceHttp
 
-TODO: Write a gem description
+Counterpart to ForceSSL
 
 ## Installation
 
