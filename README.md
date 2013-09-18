@@ -1,6 +1,6 @@
 # ForceHttp
 
-Counterpart to ForceSSL
+Counterpart to ForceSSL. This gem is to force the client to use port 80.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Use it like you would use force_ssl in the controllers. Remember to specify which actions you want to use it with if you are also using force_ssl, otherwise there will be an infinite redirect.
 
 ## Contributing
 
